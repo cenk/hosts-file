@@ -1,5 +1,5 @@
 # hosts-file
-Latest hosts-file.net hosts files.
+Latest hosts-file.net domain lists.
 
  Hosts file | Content | Number of domains
  ---------- | ------- | -----------------
