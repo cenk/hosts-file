@@ -2,7 +2,7 @@
 Latest hosts-file.net domain lists.
 
  Hosts file | Content | Number of domains
- ---------- | ------- | -----------------
+ :--------- | :------ | ----------------:
 [ad_servers.txt](https://raw.githubusercontent.com/cenk/hosts-file/master/ad_servers.txt) | Ad/tracking | 45736
 [emd.txt](https://raw.githubusercontent.com/cenk/hosts-file/master/emd.txt) | Malware | 300349
 [exp.txt](https://raw.githubusercontent.com/cenk/hosts-file/master/exp.txt) | Exploits | 1156
